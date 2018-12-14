@@ -1,5 +1,5 @@
 # Fanduel-Analysis
-##Sports Algorithms and Data Analysis for Fanduel (MLB, NBA, NFL, NHL)
+## Sports Algorithms and Data Analysis for Fanduel (MLB, NBA, NFL, NHL)
 
 •	Imported historical sports data to Excel and created a projection system that analyzes a player based on various statistical factors.
 
