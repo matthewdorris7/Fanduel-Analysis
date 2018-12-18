@@ -8,3 +8,5 @@
 •	After more research and data analysis, I created an improved algorithm that “stacks” players from the same team so that there occur less independent events, which led to a higher chance of winning, and better results.
 
 •	Capability to run algorithm to maximize points for the 30 optimal lineups
+
+https://sites.google.com/view/mtdfandualprojections/home
